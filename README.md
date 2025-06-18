@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2d0ff01e-6b98-4f72-8fa3-a89eddbf218c)
+
 # TIP102 | Intermediate Technical Interview Prep - Summer 2025
 
 This repository serves as a centralized hub for my notes, solutions to coding problems (primarily using Google Colab), and class materials for CodePath's TIP102 Intermediate Technical Interview Prep course.
